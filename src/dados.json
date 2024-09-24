@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nome": "Isaias Santos",
+        "endereco": "Rua X",
+        "bairro": "Centro",
+        "cep": "45830-000",
+        "cidade": "Ipatinga",
+        "perfil": "https://reqres.in/img/faces/7-image.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Marcos Henrique teixeira",
+        "endereco": "Rua Y",
+        "bairro": "Buritis",
+        "cep": "27234-949",
+        "cidade": "Belo Horizonte",
+        "perfil": "https://reqres.in/img/faces/8-image.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Daniel Felipe",
+        "endereco": "Rua A",
+        "bairro": "Centro",
+        "cep": "35323-000",
+        "cidade": "Ipatinga",
+        "perfil": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Sarah Helena",
+        "endereco": "Rua D",
+        "bairro": "Buritis",
+        "cep": "22342-949",
+        "cidade": "Belo Horizonte",
+        "perfil": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Saulo Farias",
+        "endereco": "Rua H",
+        "bairro": "Centro",
+        "cep": "25434-235",
+        "cidade": "Ipatinga",
+        "perfil": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "André Boradlo",
+        "endereco": "Rua U",
+        "bairro": "Buritis",
+        "cep": "46646-734",
+        "cidade": "Belo Horizonte",
+        "perfil": "https://reqres.in/img/faces/12-image.jpg"
+    }
+]
